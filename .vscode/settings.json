@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "aes_2.py": true,
+    "hybrid_crypto.ipynb": true
+  }
+}
